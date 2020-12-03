@@ -26,4 +26,14 @@ img {
 
 .tech-used {
   padding-bottom: 10px;
+  font-weight: bold;
+}
+
+a {
+  color: #e2e8f0;
+  font-size: 20px;
+}
+
+a:hover {
+  text-decoration-color: red;
 }
